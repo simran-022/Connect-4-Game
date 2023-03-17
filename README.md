@@ -39,3 +39,8 @@ Main condition required for alpha-beta pruning: α>=β.
 
 The Alpha-beta pruning to a standard minimax algorithm returns the same move as the standard algorithm does, but it removes all the nodes which are not really affecting the final decision but making the algorithm slow. Hence by pruning these nodes, it makes the algorithm fast. The Max player will only update the value of alpha and the Min player will only update the value of beta.
 
+The GUI for the Game is:
+
+![Screenshot (257)](https://user-images.githubusercontent.com/83072866/225814787-f64ae0bb-40df-4252-8705-a778c5c48aa8.png)
+
+
